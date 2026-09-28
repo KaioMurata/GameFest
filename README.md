@@ -20,3 +20,5 @@ HTML5 (Semântico)
 CSS3 (Variáveis, Flexbox, CSS Grid)
 
 JavaScript (Manipulação de DOM e lógica de filtros)
+
+(Feito na aula de prompt AI)
